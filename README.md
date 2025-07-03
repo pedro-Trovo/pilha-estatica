@@ -27,9 +27,29 @@ A pilha é uma estrutura do tipo LIFO (Last In, First Out) — "Último a entrar
 
 ## `src/`
 
+### main.c              
+- Programa principal que demonstra o uso da pilha estática
+  
+### pilha_vetor.c       
+- Implementação das funções para manipulação da pilha estática
+
 
 
 # Funcionalidades
+- Inicialização da pilha estática com capacidade definida pelo usuário.
+
+- Inserção (empilhar) de elementos na pilha, respeitando o limite de capacidade.
+
+- Remoção (desempilhar) de elementos da pilha.
+
+- Verificação se a pilha está vazia ou cheia.
+
+- Consulta do tamanho atual da pilha.
+
+- Impressão visual do conteúdo atual da pilha.
+
+- Uso de números aleatórios para popular a pilha na demonstração.
+
 
 
 # Tecnologias
