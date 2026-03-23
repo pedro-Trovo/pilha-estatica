@@ -8,7 +8,9 @@
 - [Funcionalidades](#funcionalidades)  
 - [Tecnologias](#tecnologias)  
 - [Como executar o projeto](#como-executar-o-projeto)
+- [Imagens do Projeto](#imagens-do-projeto)
 
+  
 # Sobre o Projeto
 Este projeto implementa uma Pilha Estática em linguagem C, com o objetivo de demonstrar os conceitos básicos de estrutura de dados e de pilha. O código está organizado com separação entre arquivos de cabeçalho (`.h`) e implementação (`.c`). 
 
